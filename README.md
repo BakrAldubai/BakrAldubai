@@ -11,7 +11,8 @@
 
 I am a dedicated Software Engineer with a strong focus on ERP development, implementation, and customization—especially using ERPNext and the Frappe framework. I have extensive experience guiding development teams, building robust integrations, and training users and developers.
 
-- 💼 Currently: Software Engineer at Qasemi Islamic Microfinance Bank  
+- 💼 Currently: System Developer at FeedCo Investment Company
+- Software Engineer at Qasemi Islamic Microfinance Bank  
   - Leading ERPNext custom development & Temenos Transact (T24) integration  
   - Managing teams for social funding platforms and mobile apps  
 - 🎓 Trainer at Sana’a University & ThirdEye Academy  
