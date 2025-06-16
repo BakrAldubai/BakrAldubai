@@ -60,12 +60,6 @@ I am a dedicated Software Engineer with a strong focus on ERP development, imple
 
 ---
 
-## 📈 GitHub Stats
-
-![BakrAldubai's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakrAldubai&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact
 
 - Email: [eng.bakraldubai@gmail.com](mailto:eng.bakraldubai@gmail.com)
